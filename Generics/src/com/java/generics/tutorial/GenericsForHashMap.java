@@ -11,6 +11,7 @@ public class GenericsForHashMap {
 		m.put(0, "Kittu");
 		m.put(1, "Tharun");
 		m.put(2, "Anurag");
+		m.put(3, "Anil");
 		System.out.println("The Hashmap is here........." +m);
 		
 		//sort with Iterator
